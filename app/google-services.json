@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826510516427",
+    "project_id": "fir-loginandsignup-dac95",
+    "storage_bucket": "fir-loginandsignup-dac95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826510516427:android:7458c13417ca8d5d5bbb4e",
+        "android_client_info": {
+          "package_name": "com.converter.firebaseloginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826510516427-ger29i6dlp6n9g9ul2qhfn2no46dna23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnyOXtyZzpr142RZ8HQzacnVwJCJ8F9cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826510516427-ger29i6dlp6n9g9ul2qhfn2no46dna23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

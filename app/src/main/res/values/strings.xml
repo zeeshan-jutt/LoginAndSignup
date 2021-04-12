@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirebaseLoginAndSignup</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_new_email">New Email</string>
+    <string name="prompt_password">Prompt password</string>
+    <string name="new_pass">New Password</string>
+    <string name="btn_change">change</string>
+    <string name="btn_send">send</string>
+    <string name="btn_remove">remove</string>
+    <string name="change">change</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="remove_user">Remove User</string>
+    <string name="send_password_reset_email">Reset Email</string>
+    <string name="lbl_forgot_password">Forget Password</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back">Back</string>
+</resources>
